@@ -1,2 +1,2 @@
-admin
-Ou8xw989
+Имя - admin
+Пароль - Ou8xw989
